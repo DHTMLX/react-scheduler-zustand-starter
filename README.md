@@ -4,8 +4,6 @@ This demo shows how to wire **DHTMLX React Scheduler** to a **Zustand** store so
 
 After you run it, you will see a full-screen Scheduler with a small custom toolbar (view switcher, date navigation, and undo/redo). The demo illustrates where Scheduler styles are imported, where the component is mounted, and how Scheduler's `data.save(...)` callback can be mapped to Zustand actions.
 
-![Demo screenshot](./screenshot.png)
-
 ## Features
 - Day/week/month views with an external toolbar
 - Create, edit, and delete events (stored in Zustand)
@@ -58,8 +56,15 @@ Source code in this repo is released under the **MIT License**.
 **DHTMLX React Scheduler** is a commercial library - use it under a valid [DHTMLX license](https://dhtmlx.com/docs/products/licenses.shtml) or evaluation agreement.
 
 ## Useful links
-- Product page (React Scheduler): https://dhtmlx.com/docs/products/dhtmlxScheduler-for-React/
-- Product page (Scheduler): https://dhtmlx.com/docs/products/dhtmlxScheduler/
-- Documentation: https://docs.dhtmlx.com/scheduler/
-- Blog: https://dhtmlx.com/blog/
-- Forum: https://forum.dhtmlx.com/
+
+[DHTMLX React Scheduler product page](https://dhtmlx.com/docs/products/dhtmlxScheduler-for-React/)
+
+[DHTMLX Scheduler product page](https://dhtmlx.com/docs/products/dhtmlxScheduler/)
+
+[Documentation](https://docs.dhtmlx.com/scheduler/)
+
+[React Scheduler Documentation](https://docs.dhtmlx.com/gantt/integrations/react/)
+
+[Blog](https://dhtmlx.com/blog/)
+
+[Forum](https://forum.dhtmlx.com/)
